@@ -34,7 +34,12 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
+    "-": "0.0.1",
+    "@shelf/jest-mongodb": "^1.2.2",
+    "@types/mongodb": "^3.5.26",
+    "D": "^1.0.0",
     "bcrypt": "^5.0.0",
+    "mongodb": "^3.6.0",
     "validator": "^13.1.1"
   }
 }
